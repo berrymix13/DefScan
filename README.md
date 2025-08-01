@@ -1,4 +1,4 @@
-# 🌟 Surface Defect Detection from RGB-D Data
+# 🔍 DefScan: Surface Defect Detection via 3D Gradient Analysis
 
 이 프로젝트는 RGB 이미지와 Depth 데이터를 활용하여 **3D 포인트 클라우드를 생성**하고,  
 **표면 기울기 기반 분석**을 통해 국소 결함 영역을 자동 검출한 뒤, **2D 마스크 이미지로 시각화**하는 전체 파이프라인을 제공합니다.
